@@ -1,0 +1,18 @@
+Website Requirement
+Base Module-
+1.        Order System, Cart, Favorite, Wish list
+2.        User registration System- Social login, UNIQUE User ID
+3.        Contact Us
+4.        Email Subscription
+5.        User interface- Order History, User profile, Support Ticket management, Order Track, Share , Email Notification
+6.        Discount, Search, Filtering,
+7.        Payment and SMS Integration
+8.        Page- Home, Category, Product Details, Search Page, Cart, Wish list, Check out, Contact us, About, FAQ,  User Profile, Order history, Ticket page, Log/Register page
+Advance Module
+1.        Referral System- User will get Reward amount on 3 criteria
+•        For a Successful transaction
+•        Share of the order via social media
+•        Share his referral link to his friend. And when his friend will purchase from us we will give the shared person a reward
+•        Utilization of reward amount- User can use only a maximum amount for his/ her next transaction from his remaining reward point. But can not fully utilize his reward amount for a order.
+2.        Notification- Our site user will get every single notification
+3.        Messaging – Registered user can communicate with site admin via a massaging system from his user account
